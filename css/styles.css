@@ -168,7 +168,7 @@ figure {
 
 .hero-section {
   background-image: linear-gradient(var(--bg-overlay), var(--bg-overlay)),
-    url(/images/backgrounds/hero.jpg);
+    url(./images/backgrounds/hero.jpg);
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: 1600px 600px;
